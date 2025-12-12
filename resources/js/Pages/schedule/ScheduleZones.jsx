@@ -29,7 +29,7 @@ import {
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import { ZONE_COLORS } from "@/components/MapIcons";
+import { ZONE_COLORS } from "@/Components/MapIcons";
 import axios from "axios";
 import dayjs from "dayjs";
 
