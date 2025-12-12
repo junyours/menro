@@ -338,7 +338,7 @@ export default function Login({ status, canResetPassword }) {
 
               {/* Download APK Button */}
               <a
-                href="/apk/menro-app-v2.apk"
+                href="/apk/menro.apk"
                 className="
                   mt-4 inline-flex w-full items-center justify-center
                   border border-blue-600 text-blue-600 hover:bg-blue-50
