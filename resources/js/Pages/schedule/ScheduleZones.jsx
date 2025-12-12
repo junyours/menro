@@ -16,7 +16,7 @@ import { Head, usePage, router } from "@inertiajs/react";
 import Sidebar from "@/Components/Sidebar";
 import Navbar from "@/Components/Navbar";
 import RouteSummaryAside from "@/Components/RouteSummaryAside";
-import StatusBadge from "@/components/StatusBadge";
+import StatusBadge from "@/Components/StatusBadge";
 import { EnvironmentOutlined } from "@ant-design/icons";
 import {
   MapContainer,
