@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "leaflet/dist/leaflet.css";
+
+.scrollable-calendar .ant-picker-panel-container {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+/* Make TimePicker dropdown scrollable */
+.scrollable-time .ant-picker-time-panel {
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+
+@import './Login.css';
